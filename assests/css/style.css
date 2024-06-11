@@ -1,0 +1,214 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+h2 {
+  vertical-align: center;
+  text-align: center;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: #f6c908;
+  }
+
+* {
+  font-family: "Raleway";
+  box-sizing: border-box;
+}
+
+/*---------------------------------------------Nav Bar*/
+.logo {
+  color: rgb(234, 250, 10);
+  font-size: 16px;
+  font-weight: 800;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+}
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #00BAF0;
+  background: #000000;
+  color: #ffffff;
+  height: 50px;
+  padding: 1em;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  padding: 10px;
+}
+
+.menu > li {
+  margin: 0 1rem;
+  overflow: hidden;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: #fafafa;
+  font-weight: 500;
+}
+
+.menu li:hover {
+  background-color: #f6c908;
+}
+
+/*-------------------------------------------hero image*/
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center; 
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+
+.hero-image img {
+    width: 100%;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+/*---------------------------------------------------History*/
+.main {
+  text-align: center;
+  background: rgb(0, 0, 0);
+  color: #fafafa;
+  letter-spacing: 2px;
+}
+
+.main h1 {
+  text-decoration: underline 2px;
+  text-underline-position: under;
+}
+
+/*------------------------------------------------How it works*/
+.section-1 {
+  background: url(https://images.unsplash.com/photo-1516641051054-9df6a1aad654?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center / cover no-repeat fixed;;
+}
+
+.steps{
+  list-style-type: none;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 0;
+  color:#fafafa;
+  font-weight: 1000;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+/*--------------------------------------------------Event boxes-*/
+
+.aside-1 {
+    background: #f6c908;
+}
+
+.aside-2 {
+  background: #f6c908;
+}
+.event {
+  position: relative;
+  font-family: Arial;
+}
+
+.event img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: solid black 5px;
+}
+
+.event-heading{
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.event-textblock {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  left: 10px;
+  background-color: rgb(14, 13, 13 ,0.8);
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12px;
+}
+
+.event-textblock-2 {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+    background-color: rgb(14, 13, 13 ,0.8);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+  }
+
+/* ------------------------------------opeing time and location */
+
+.section-2 {
+    background-color: #f6c908;
+    margin: 0;
+    width: 100%;
+}
+
+.section-2 table {
+    margin: auto;
+}
+
+.info-border {
+  border: #000000 solid 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+
+/* -----------------------------------------------------Footer */
+
+footer{
+    background: #333;
+    padding: 1em;
+	  text-align: center;
+    width: 100%;
+    height: auto;
+    position: relative;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer p {
+  color: #f6c908;
+}
+.social-networks{
+  text-align: center;
+
+}
+
+.social-networks li{
+  display: inline;
+}
+
+.social-networks i{
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #fafafa;
+}
