@@ -20,19 +20,36 @@
                 </li>
                 <li>
                   <i class="fa-solid fa-images"></i>
-                  <a href="gallery.html" class="active">Gallery</a>
+                  <a href="gallery.html">Gallery</a>
                 </li>
                 <li>
                   <i class="fa-solid fa-address-book"></i>
-                  <a href="contact.html">Conatct</a>
+                  <a href="contact.html" class="active">Conatct</a>
                 </li>
               </ul>
             </nav>
         </header> 
-        <Section>
-            <h1>Gallery</h1>
-            <p>Below you will see a visual exerpenice and the crative lego builds passed customers have constructed.</p>
-        </Section>
+        <section>
+            <form action="thank-you.html" method="GET">
+                <h2><i class="fa-regular fa-id-card"></i></i> Contact Us</h2>
+                <label for="fname">First Name</label>
+                <input class="text-input" id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name</label>
+                <input class="text-input" id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address</label>
+                <input class="text-input" type="email" id="email" name="email_address" required>
+                
+                <label for="Lego Set">Lego Set</label>
+                <input type="radio" id="Lego Set" name="preference" value="Lego Set" required>
+                <label for="Hire Venue">Hire Venue</label>
+                <input type="radio" id="Hire Venue" name="preference" value="Hire Venue" required>
+                
+                <input type="reset" value="Reset Form">
+                <input type="submit" value="Submit">
+            </form>
+        </section>    
         <footer>
             <p>Copyright © 2024 Build n Blend</p>
             <ul class="social-networks">
@@ -43,4 +60,4 @@
             </ul>
         </footer>
     </body>
-</html>      
+</html>  
