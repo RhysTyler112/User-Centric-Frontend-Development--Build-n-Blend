@@ -29,23 +29,26 @@
               </ul>
             </nav>
         </header> 
-        <section>
-            <form action="thank-you.html" method="GET">
-                <h2><i class="fa-regular fa-id-card"></i></i> Contact Us</h2>
+        <section class="form">
+            <h2><i class="fa-regular fa-id-card"></i></i> Contact Us</h2>
+            <form action="thank-you.html" method="GET" class="contact-form">
+                
                 <label for="fname">First Name</label>
-                <input class="text-input" id="fname" name="first_name" type="text" required>
+                <input class="text-input" id="fname" name="first_name" type="text" required class="input" placeholder="Your First Name">
                 
                 <label for="lname">Last Name</label>
-                <input class="text-input" id="lname" name="last_name" type="text" required>
+                <input class="text-input" id="lname" name="last_name" type="text" required class="input" placeholder="Your Last Name">
                 
                 <label for="email">Email Address</label>
-                <input class="text-input" type="email" id="email" name="email_address" required>
+                <input class="text-input" type="email" id="email" name="email_address" required class="input" placeholder="Your Email Address">
                 
                 <label for="Lego Set">Lego Set</label>
                 <input type="radio" id="Lego Set" name="preference" value="Lego Set" required>
                 <label for="Hire Venue">Hire Venue</label>
                 <input type="radio" id="Hire Venue" name="preference" value="Hire Venue" required>
                 
+                <textarea id="subject" name="subject" placeholder="Please state the lego set you wish to pre book or the reason for hiring the shop"></textarea>
+
                 <input type="reset" value="Reset Form">
                 <input type="submit" value="Submit">
             </form>
