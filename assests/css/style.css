@@ -33,7 +33,7 @@ html, body {
   background-color: #00BAF0;
   background: #000000;
   color: #ffffff;
-  height: 50px;
+  height: 70px;
   padding: 1em;
 }
 
@@ -46,7 +46,7 @@ html, body {
 }
 
 li{
-  padding: 10px;
+  padding: 5%;
 }
 
 .menu > li {
@@ -153,7 +153,7 @@ nav a.active {
   color: white;
   padding-left: 10px;
   padding-right: 10px;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .event-textblock-2 {
@@ -165,7 +165,7 @@ nav a.active {
     color: white;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 12px;
+    font-size: 15px;
   }
 
 /* ------------------------------------opeing time and location */
@@ -300,13 +300,18 @@ input[type=reset] {
   height: 800px;
 }
 
+.thank-you-message-border{
+padding-top: 38%;
+}
+
 .thank-you-message {
-  padding-top: 38%;
   text-align: center;
   color: #131111;
   letter-spacing: 2px;
   font-size: 30px;
   font-weight: 700;
+  margin: 0 2%;
+  background-color:rgb(255, 255, 255, 0.7);
 }
 
 .return-home {
@@ -318,20 +323,23 @@ input[type=reset] {
   text-align: center;
   text-decoration: none;
   font-size: 16px;
+  font-weight: 1000;
   margin-top: 35px;
-
 }
 
+.return-home-border{
+  margin: 0 15%;
+}
 /* -----------------------------------------------------Footer */
 footer{
-    background: #333;
-    padding: 1em;
-	  text-align: center;
-    width: 100%;
-    height: auto;
-    position: relative;
-    bottom: 0;
-    right: 0;
+  background: #333;
+  padding: 1em;
+	text-align: center;
+  width: 100%;
+  height: auto;
+  position: relative;
+  bottom: 0;
+  right: 0;
 	z-index: 3;
 }
 
