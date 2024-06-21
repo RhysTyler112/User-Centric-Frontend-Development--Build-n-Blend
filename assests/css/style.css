@@ -90,20 +90,20 @@ nav a.active {
 }
 
 /*---------------------------------------------------History*/
-.main {
+.history {
   text-align: center;
   background: rgb(0, 0, 0);
   color: #fafafa;
   letter-spacing: 2px;
 }
 
-.main h1 {
+.history h1 {
   text-decoration: underline 2px;
   text-underline-position: under;
 }
 
 /*------------------------------------------------How it works*/
-.section-1 {
+.how-it-works {
   background: url(https://images.unsplash.com/photo-1516641051054-9df6a1aad654?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center center / cover no-repeat fixed;
 }
 
@@ -119,11 +119,11 @@ nav a.active {
 }
 
 /*--------------------------------------------------Event boxes-*/
-.aside-1 {
+.adult-night {
     background: #f6c908;
 }
 
-.aside-2 {
+.after-school {
   background: #f6c908;
 }
 .event {
@@ -156,26 +156,26 @@ nav a.active {
 }
 
 .event-textblock-2 {
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    left: 10px;
-    background-color: rgb(14, 13, 13 ,0.8);
-    color: white;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-size: 15px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  left: 10px;
+  background-color: rgb(14, 13, 13 ,0.8);
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 15px;
   }
 
 /* ------------------------------------opeing time and location */
-.section-2 {
-    background-color: #f6c908;
-    margin: 0;
-    width: 100%;
+.opening-location{
+  background-color: #f6c908;
+  margin: 0;
+  width: 100%;
 }
 
-.section-2 table {
-    margin: auto;
+.opening-location table {
+  margin: auto;
 }
 
 .info-border {
@@ -185,14 +185,14 @@ nav a.active {
 }
 
 /* -----------------------------------------------------Gallery + Flex-box */
-.container {
+.gallery-container {
   max-width: 1224px;
   width: 90%;
   margin: auto;
   padding: 40px 0;
 }
 
-.title {
+.gallery-title {
   margin-bottom: 2rem;
 }
 
