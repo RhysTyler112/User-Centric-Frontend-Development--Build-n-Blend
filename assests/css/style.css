@@ -49,12 +49,14 @@ html, body {
   overflow: hidden;
 }
 
+.menu li {
+  padding: 1%;
+}
 .menu li a {
   text-decoration: none;
   color: #fafafa;
   font-weight: 500;
   font-size: 12px;
-  margin: 1%;
 }
 
 .menu li:hover {
@@ -81,9 +83,10 @@ nav a.active {
 
 
 .hero-image img {
-    width: 100%;
-    border-radius: 10px;
-    object-fit: contain;
+  width: 100%;
+  border-radius: 10px;
+  object-fit: contain;
+  padding-bottom: 1%;
 }
 
 /*---------------------------------------------------History*/
