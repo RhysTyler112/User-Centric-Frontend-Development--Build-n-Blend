@@ -399,12 +399,51 @@ footer p {
 }
 /* -----------------------------------------------------Media queries */
 
-
+/* ----opeing time and location */
 @media only screen and (min-width: 1440px) {
   .opening-location {
     font-size: 1.3em
   }
+  /* ------Thank you html */
+  .thank-you-message-border{
+    padding-top: 16%;
+    }
+
+  .thank-you-message {
+    text-align: center;
+    color: #131111;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 20%;
+    background-color:rgb(255, 255, 255, 0.7);
+    
+  }
+
+  .return-home {
+    background-color: #f6c908; 
+    border-radius: 4px;
+    color: #131111;
+    padding: 10px 50px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 1000;
+    margin: 2% 32%;
+  }
+  
 } 
+
+@media only screen and (min-width: 768px) { 
+  
+  .thank-you-message-border{
+    padding-top: 16%;
+    }
+    .return-home {
+      margin: 10% 30%;
+    }
+}
 /* -----------------------------------------------------Bootstap overide */
 
 .container-fluid {
