@@ -184,7 +184,7 @@ nav a.active {
   margin-bottom: 10px;
 }
 
-/* -----------------------------------------------------Gallery + Flex-box */
+/* -----------------------------------------------------Gallery*/
 .gallery-container {
   max-width: 1224px;
   width: 90%;
@@ -398,9 +398,8 @@ footer p {
   color: #fafafa;
 }
 /* -----------------------------------------------------Media queries */
-
-/* ----opeing time and location */
 @media only screen and (min-width: 1440px) {
+  /* ----opeing time and location */
   .opening-location {
     font-size: 1.3em
   }
@@ -436,14 +435,46 @@ footer p {
 } 
 
 @media only screen and (min-width: 768px) { 
-  
+   /* ------Thank you html */
   .thank-you-message-border{
     padding-top: 16%;
     }
+
     .return-home {
       margin: 10% 30%;
     }
 }
+
+/* -----Gallery Flex */
+@media (max-aspect-ratio: 1/1) {
+  .photo-gallery li {
+    height: 30vh;
+  }
+}
+
+@media (max-height: 480px) {
+  .photo-gallery li {
+    height: 80vh;
+  }
+}
+
+@media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+  .photo-gallery ul {
+    flex-direction: row;
+  }
+
+  .photo-gallery li {
+    height: auto;
+    width: 100%;
+  }
+
+  .photo-gallery img {
+    width: 100%;
+    max-height: 75vh;
+    min-width: 0;
+  }
+}
+
 /* -----------------------------------------------------Bootstap overide */
 
 .container-fluid {
