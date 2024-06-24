@@ -189,6 +189,10 @@ nav a.active {
   margin-bottom: 10px;
 }
 
+.info-border td {
+padding-right: 10px;
+}
+
 .map{ 
   width: 100%;
 }
