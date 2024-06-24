@@ -275,6 +275,10 @@ input[type=radio] {
   margin-bottom: 8%;
 }
 
+.radio {
+  margin: 0 15%;
+}
+
 input[type=textarea]{
   width: 100%;
   padding: 12px 20px;
