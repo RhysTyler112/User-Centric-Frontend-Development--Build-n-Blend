@@ -193,6 +193,9 @@ nav a.active {
   margin-bottom: 10px;
 }
 
+.map{ 
+  width: 100%;
+}
 /* -----------------------------------------------------Gallery*/
 .gallery-container {
   max-width: 1224px;
