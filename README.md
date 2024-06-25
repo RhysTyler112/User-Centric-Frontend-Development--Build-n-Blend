@@ -213,7 +213,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ### Manual Testing
 
 * The website was tested on Google Chrome, Microsoft Edge, and Opera browsers.
-* The website was viewed on a desktop computer, laptop, and Samsung Galaxy A52 mobile phone.
+* The website was viewed on a desktop computer, tablet, and iphone 13.
 * A large amount of testing was done to ensure links between pages are working correctly on all pages.
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Dev Tools was used to test how the site looks on various screen sizes.
@@ -225,25 +225,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report]()
+![Home Page lighthouse report](assests/images/index-mobile.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report]()
+![Gallery lighthouse report](assests/images/gallery-mobile.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Sign Up Page lighthouse report]()
+![Contact lighthouse report](assests/images/contact-mobile.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Application received lighthouse report]()
+![Thank you message lighthouse report](assests/images/thank-you-mobile.png)
 </details>
 
 #### Desktop analysis
@@ -251,25 +251,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report]()
+![Home Page lighthouse report](assests/images/index-desktop.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report]()
+![Gallery lighthouse report](assests/images/gallery-desktop.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Sign Up Page lighthouse report]()
+![Contact lighthouse report](assests/images/contact-desktop.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Application received lighthouse report]()
+![Thank you message lighthouse report](assests/images/thank-you-desktop.png)
 </details>
 
 ---
