@@ -183,31 +183,31 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>index.html
 </summary>
 
-![Home Page validation result]()
+![Home Page validation result](assests/images/index-checked.png)
 </details>
 <details>
 <summary>gallery.html
 </summary>
 
-![Gallery validation result]()
+![Gallery validation result](assests/images/gallery-checked.png)
 </details>
 <details>
-<summary>sign-up.html
+<summary>contact.html
 </summary>
 
-![Sign Up page validation result]()
+![Contact page validation result](assests/images/contact-checked.png)
 </details>
 <details>
-<summary>form-received.htmml
+<summary>thak-you.htmml
 </summary>
 
-![Application Received validation result]()
+![Thank you message validation result](assests/images/thank-you-checked.png)
 </details>
 <details>
 <summary>style.css
 </summary>
 
-![CSS validation result]()
+![CSS validation result](assests/images/css-validation.png)
 </details>
 
 ### Manual Testing
@@ -323,7 +323,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 ### Media 
 
  * [Unslash](https://unsplash.com/) free stock photos, royalty free images.
- * [Pixlr](https://pixlr.com/) Resizing images.
+ * [Imageresizer](https://imageresizer.com//) Resizing images.
 ---
 
 ## Acknowledgements
