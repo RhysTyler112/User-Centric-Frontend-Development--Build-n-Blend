@@ -79,56 +79,63 @@ Users can see on our gallery page the seting of the shop with lego builds that c
     * It is identical in design across the pages.
     * Allows easy navigation from page to page without having to revert back to the previous page via the "back" button.
 
-![Navigation]()
+![Navigation](assests/images/nav-bar.png)
 
 * Hero Image
     * It is composed of a image featuring the inside of the coffee shop.
     * Shows customer there first glimse of what there experice would like if they came to the shop
 
-![Hero Image]()
+![Hero Image](assests/images/hero-image.png)
 
 * Section one, 'Where it all began?'
     * This section contains a short heading with an rewind icon to show in past this idea was created.
     * It gives us a brief description of what we can accomplish through this website.
 
-![Where it all began?]()
+![Where it all began?](assests/images/history.png)
 
 * Section two, 'How does it work?'
     * Information about the ordering and building proccess customer will experince on the store.
     * 
 
-![How does it work?]()
+![How does it work?](assests/images/how-it-works.png)
 
 * Events
     * This section will allow users to get information about Build n Blends events during the week.
+    * Have the address of the shop so customer can clearly see it in writing.
+    * Also embedded is google maps of shop laoction so custoemr can see where the shop is. 
+
+![Events](assests/images/events.png)
+
+* Opening Times and Location
+    * This section will allow users to see the opeing hours for during the week.
     * Opportunity to experince a slighty different enviorment, depending on age.
     * For example on Saturday night you way when to have a beer or cocktail while you build.
 
-![Events]()
+![Opening Times and Location](assests/images/opening-location.png)
 
 * Footer
     * Links to the social media for Build n Blend will open in a new tab to allow easy navigation for the user.
     * It is valuable to the user as it gives them an easy contact option via social media.
     * Hold copyright information about the author. 
 
-![Footer]()
+![Footer](assests/images/footer.png)
 
 * Gallery 
     * The gallery will provide the user with supporting images to see lego build, coffee on offer and customer having a good time.
     * This section is valuable to the user as they will see our previous experinces of past customer.
 
-![Gallery]()
+![Gallery](assests/images/gallery.png)
 
 * Contact Page
     * This page will allow users to choose a lego set they wish to build, enquiries on booking the venue for a function, and all other questions.
     * In the future, there might be more options of lego sets for custoemr to choose from. 
 
-![Contact Page]()
+![Contact Page](assests/images/contact-form.png)
 
 * Thank you message page
     * Confirms we have recieved the customer request
 
-![Form received]()
+![Form received](assests/images/thank-you-message.png)
 
 ---
 
