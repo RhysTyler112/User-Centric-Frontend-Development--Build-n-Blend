@@ -99,7 +99,7 @@ nav a.active {
 
 /*------------------------------------------------How it works*/
 .how-it-works {
-  background: url('../assests/images/lego-background.jpg') center center / cover no-repeat fixed;
+  background: url('/assests/images/lego-background.jpg') center center / cover no-repeat fixed;
 }
 
 .steps{
@@ -322,7 +322,7 @@ input[type=reset] {
 
 /* -----------------------------------------------------Thank you html */
 .thank-you-section {
-  background: url('../assests/images/thank-you-pic.jpg');
+  background: url('/assests/images/thank-you-pic.jpg') center center / cover no-repeat fixed;
   background-size: cover;
   background-position: center;
   height: 800px;
