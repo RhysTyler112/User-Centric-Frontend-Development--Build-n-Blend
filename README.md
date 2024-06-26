@@ -1,6 +1,6 @@
 Build n Blend
 
-Build n Blend is an idea for a themed coffee shop for coffee and lego builder. The idea is to bring togother two hobbies that compliment eachother! As we know having a good coffee machine and the price of lego is very expenise, so Build n Blend was imagined to allow enthusiasts to contunie to experince what they love with out having to spend a big upfront bill.
+Build n Blend is an idea for a themed coffee shop for coffee and lego builders. The idea is to bring together two hobbies that compliment each other! As we know having a good coffee machine and the price of lego is very expensive, so Build n Blend was imagined to allow enthusiasts to continue to experience what they love without having to spend a big upfront bill.
 
 
 ![Am I Responsive](assests/images/am-i-responsive.png)
@@ -31,35 +31,36 @@ Build n Blend is an idea for a themed coffee shop for coffee and lego builder. T
 
 ## User Experience (UX)
 
-This website is meant to attract people who like drinking coffe and building a variety lego sets.
+This website is meant to attract people who like drinking coffee and building a variety of lego sets.
 
 There is clear navigation and a form set up on the contact page to request a specific lego set or hire the venue out for a function.
 
-Users can see on our gallery page the seting of the shop with lego builds that customer have built with their time with us.
+Users can see on our gallery page the setting of the shop with lego builds that customers have built with their time with us
 
 ### User Stories
 
  * First-time visitor goals
     * Understand the main purpose of the site and learn more about why Build n Blend was created.
-    * Easily navigate throughout the site.
+    * Easily navigate throughout the site
     * Find the Contact form and fill it out.
  * Returning visitor goals
-    * Find out information about the company and how the proccess works.
+    * Find out information about the company and how the process works.
     * Locate contact information.
     * Review the site's extensive gallery.
 
  * Frequent user goals
-    * Check if there are any new lego sets they can pre-book on conatact form.
+    * Check if there are any new lego sets they can pre-book on contact form.
     * Review the gallery for any new photos.
+
 - - -
 
 ## Design
 
  * Colour Scheme
-    * Primary colors used on the website: ![Color Scheme](assests/images/colors-used.png)
+    * Primary colours used on the website: ![Color Scheme](assests/images/colors-used.png)
 
  * Typography
-    * Glegoo font is main font used throughout due to it similarity with the lego font, the site with sans-serif as its fallback font in case Glegoo doesn't import for some reasson.
+    * Glegoo font is the main font used throughout due to its similarity with the lego font, the site with sans-serif as its fallback font in case Glegoo doesn't import for some reason.
 
  * Wireframes
     * I used figma to create my wireframes which are located in the assets folder.
@@ -68,14 +69,14 @@ Users can see on our gallery page the seting of the shop with lego builds that c
 ## Features
 
 * This website is targeting people who want a relaxing environment to drink coffee and build lego.
-* They can do that by order from our vast list of coffee's and the varitey of lego sets we have to offer
+* They can do that by order from our vast list of coffees and the variety of lego sets we have to offer
 * Responsive on all device sizes.
 
 ### Existing Features
 
 * Navigation bar
     * It is featured and fixed on all three pages and the thank-you page.
-    * Includes links to the logo, home page, gallery and contact page.
+    * Includes links to the logo, home page, gallery and contact page
     * It is identical in design across the pages.
     * Allows easy navigation from page to page without having to revert back to the previous page via the "back" button.
 
@@ -88,52 +89,58 @@ Users can see on our gallery page the seting of the shop with lego builds that c
 ![Hero Image](assests/images/hero-image.png)
 
 * Section one, 'Where it all began?'
-    * This section contains a short heading with an rewind icon to show in past this idea was created.
-    * It gives us a brief description of what we can accomplish through this website.
+    * It is composed of an image featuring the inside of the coffee shop.
+    * Shows customer their first glimpse of what their experience would like if they came to the shop
+
 
 ![Where it all began?](assests/images/history.png)
 
 * Section two, 'How does it work?'
-    * Information about the ordering and building proccess customer will experince on the store.
-    * 
+   * Information about the ordering and building process customers will experience in the store.
+
 
 ![How does it work?](assests/images/how-it-works.png)
 
 * Events
     * This section will allow users to get information about Build n Blends events during the week.
-    * Have the address of the shop so customer can clearly see it in writing.
-    * Also embedded is google maps of shop laoction so custoemr can see where the shop is. 
+    * Have the address of the shop so customers can clearly see it in writing.
+    * Also embedded is google maps of shop location so customers can see where the shop is.
+
 
 ![Events](assests/images/events.png)
 
 * Opening Times and Location
-    * This section will allow users to see the opeing hours for during the week.
-    * Opportunity to experince a slighty different enviorment, depending on age.
+    * This section will allow users to see the opening hours for during the week.
+    * Opportunity to experience a slightly different environment, depending on age.
     * For example on Saturday night you way when to have a beer or cocktail while you build.
+
 
 ![Opening Times and Location](assests/images/opening-location.png)
 
 * Footer
     * Links to the social media for Build n Blend will open in a new tab to allow easy navigation for the user.
     * It is valuable to the user as it gives them an easy contact option via social media.
-    * Hold copyright information about the author. 
+    * Hold copyright information about the author.
+
 
 ![Footer](assests/images/footer.png)
 
 * Gallery 
-    * The gallery will provide the user with supporting images to see lego build, coffee on offer and customer having a good time.
-    * This section is valuable to the user as they will see our previous experinces of past customer.
+    * The gallery will provide the user with supporting images to see lego build, coffee on offer and customers having a good time.
+    * This section is valuable to the user as they will see our previous experiences of past customers.
+
 
 ![Gallery](assests/images/gallery.png)
 
 * Contact Page
     * This page will allow users to choose a lego set they wish to build, enquiries on booking the venue for a function, and all other questions.
-    * In the future, there might be more options of lego sets for custoemr to choose from. 
+    * In the future, there might be more options of lego sets for customers to choose from.
+
 
 ![Contact Page](assests/images/contact-form.png)
 
 * Thank you message page
-    * Confirms we have recieved the customer request
+    * Confirms we have received the customer request
 
 ![Form received](assests/images/thank-you-message.png)
 
@@ -141,9 +148,10 @@ Users can see on our gallery page the seting of the shop with lego builds that c
 
 ## Features Left to Implement
 
-* Additional lego set may be on offer and broken down between small, medium and large.
+* Additional lego sets may be on offer and broken down between small, medium and large.
 * Updated gallery with additional images.
 * In the future, there could page dedicated to our menu and inventory of the lego set we offer
+
 ---
 
 ## Technologies Used
@@ -172,9 +180,9 @@ Users can see on our gallery page the seting of the shop with lego builds that c
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+The W3C Markup Validator and W3C CSS Validator services were used to validate every 
 
- * [W3C Markup Validtor](https://validator.w3.org/)
+ * [W3C Markup Validator](https://validator.w3.org/)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### Validation results
@@ -217,6 +225,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 * A large amount of testing was done to ensure links between pages are working correctly on all pages.
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Dev Tools was used to test how the site looks on various screen sizes.
+
 
 ### Lighthouse Report
 
@@ -312,7 +321,7 @@ By forking the repository, we make a copy of the original repository on our GitH
  * Understanding the concept of [flexbox](https://css-tricks.com/)
  * CSS inpatration to assisted my [design](https://www.w3schools.com/)
  * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
- * To help make sire I was commiting and pushing my work correctly using [Git Cheat Code](https://education.github.com/git-cheat-sheet-education.pdf
+ * To help make sure I was committing and pushing my work correctly using [Git Cheat Code](https://education.github.com/git-cheat-sheet-education.pdf
  )
 
 ### Content
@@ -322,7 +331,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 ### Media 
 
- * [Unslash](https://unsplash.com/) free stock photos, royalty free images.
+ * [Unsplash](https://unsplash.com/) free stock photos, royalty free images.
  * [Imageresizer](https://imageresizer.com//) Resizing images.
 ---
 
