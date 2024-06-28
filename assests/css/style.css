@@ -431,6 +431,15 @@ footer p {
     margin: 0 20%;
   }
 
+  /* ----Footer */
+  footer p {
+    font-size: 20px;
+  }
+
+  footer ul {
+    font-size: 30px;
+  }
+
 } 
 
 @media only screen and (min-width: 768px) { 
@@ -442,6 +451,8 @@ footer p {
     .return-home {
       margin: 10% 30%;
     }
+
+  
     /* ----conatact page */
     .radio {
       margin: 0 0 0 10%;
