@@ -63,7 +63,28 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     * Glegoo font is the main font used throughout due to its similarity with the lego font, the site with sans-serif as its fallback font in case Glegoo doesn't import for some reason.
 
  * Wireframes
-    * I used figma to create my wireframes which are located in the assets folder.
+    * I used figma to create my wireframes which are located below
+    
+    </details>
+    <details>
+    <summary>Mobile
+    </summary>
+
+    ![Mobile Wireframe](/assests/images/Moblie.png)
+
+    </details>
+    <details>
+    <summary>Tabelt
+    </summary>
+
+    ![Tablet Wireframe](/assests/images/Tablet.png)
+
+    </details>
+    <details>
+    <summary>Desktop
+    </summary>
+    
+    ![Desktop Wireframe](/assests/images/Desktop.png)
 ---
 
 ## Features
@@ -191,13 +212,13 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>index.html
 </summary>
 
-![Home Page validation result](assests/images/index-checked.png)
+![Index page validation result](assests/images/index-checked.png)
 </details>
 <details>
 <summary>gallery.html
 </summary>
 
-![Gallery validation result](assests/images/gallery-checked.png)
+![Gallery page validation result](assests/images/gallery-checked.png)
 </details>
 <details>
 <summary>contact.html
@@ -209,7 +230,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>thak-you.htmml
 </summary>
 
-![Thank you message validation result](assests/images/thank-you-checked.png)
+![Thank you message page validation result](assests/images/thank-you-checked.png)
 </details>
 <details>
 <summary>style.css
@@ -234,25 +255,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report](assests/images/index-mobile.png)
+![Index Page lighthouse report](assests/images/index-mobile.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report](assests/images/gallery-mobile.png)
+![Gallery page lighthouse report](assests/images/gallery-mobile.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Contact lighthouse report](assests/images/contact-mobile.png)
+![Contact page lighthouse report](assests/images/contact-mobile.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Thank you message lighthouse report](assests/images/thank-you-mobile.png)
+![Thank you message page lighthouse report](assests/images/thank-you-mobile.png)
 </details>
 
 #### Desktop analysis
@@ -260,25 +281,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Home Page lighthouse report](assests/images/index-desktop.png)
+![Index Page lighthouse report](assests/images/index-desktop.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery lighthouse report](assests/images/gallery-desktop.png)
+![Gallery page lighthouse report](assests/images/gallery-desktop.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Contact lighthouse report](assests/images/contact-desktop.png)
+![Contact page lighthouse report](assests/images/contact-desktop.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Thank you message lighthouse report](assests/images/thank-you-desktop.png)
+![Thank you message page lighthouse report](assests/images/thank-you-desktop.png)
 </details>
 
 ---
