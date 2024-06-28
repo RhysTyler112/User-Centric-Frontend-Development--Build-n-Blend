@@ -83,7 +83,7 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     <details>
     <summary>Desktop
     </summary>
-    
+
     ![Desktop Wireframe](/assests/images/Desktop.png)
 ---
 
@@ -246,6 +246,11 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 * A large amount of testing was done to ensure links between pages are working correctly on all pages.
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Dev Tools was used to test how the site looks on various screen sizes.
+
+### Bugs and Fixes
+
+*   Could not get background images through CSS to show once after being pushed and live on gitpages, fixed this by using correct path to image.
+*   No know bugs
 
 
 ### Lighthouse Report

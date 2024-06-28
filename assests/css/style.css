@@ -426,6 +426,7 @@ footer p {
     background-color:rgb(255, 255, 255, 0.7);
     
   }
+  /* ----conatact page */
   .radio {
     margin: 0 20%;
   }
@@ -441,7 +442,7 @@ footer p {
     .return-home {
       margin: 10% 30%;
     }
-
+    /* ----conatact page */
     .radio {
       margin: 0 0 0 10%;
     }
