@@ -250,7 +250,9 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ### Bugs and Fixes
 
 *   Could not get background images through CSS to show once after being pushed and live on gitpages, fixed this by using correct path to image.
-*   No know bugs
+*   Links in footer kept fail lighthouse best practise as icon had no names, they did not need any so I added aria-label to links to allow screen reader to tell what each icon was for.
+*   On the index page was wider than the screen give extra space to the right of the page. Fic was applied using overflow-x: hidden; to html and body in CSS.
+*   No known bugs
 
 
 ### Lighthouse Report
