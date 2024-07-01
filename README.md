@@ -74,7 +74,7 @@ Users can see on our gallery page the setting of the shop with lego builds that 
 
     </details>
     <details>
-    <summary>Tabelt
+    <summary>Tablet
     </summary>
 
     ![Tablet Wireframe](/assests/README/tablet-wireframe.png)
@@ -227,7 +227,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ![Contact page validation result](assests/README/contact-checked.png)
 </details>
 <details>
-<summary>thak-you.htmml
+<summary>thank-you.htmml
 </summary>
 
 ![Thank you message page validation result](assests/README/thank-you-checked.png)
