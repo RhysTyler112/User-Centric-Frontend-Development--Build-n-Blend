@@ -3,7 +3,7 @@ Build n Blend
 Build n Blend is an idea for a themed coffee shop for coffee and lego builders. The idea is to bring together two hobbies that compliment each other! As we know having a good coffee machine and the price of lego is very expensive, so Build n Blend was imagined to allow enthusiasts to continue to experience what they love without having to spend a big upfront bill.
 
 
-![Am I Responsive](assests/images/am-i-responsive.png)
+![Am I Responsive](assests/README/am-i-responsive.png)
 
 [View Build n Blend live project here](https://rhystyler112.github.io/User-Centric-Frontend-Development--Build-n-Blend//)
 - - -
@@ -57,7 +57,7 @@ Users can see on our gallery page the setting of the shop with lego builds that 
 ## Design
 
  * Colour Scheme
-    * Primary colours used on the website: ![Color Scheme](assests/images/colors-used.png)
+    * Primary colours used on the website: ![Color Scheme](assests/README/colors-used.png)
 
  * Typography
     * Glegoo font is the main font used throughout due to its similarity with the lego font, the site with sans-serif as its fallback font in case Glegoo doesn't import for some reason.
@@ -70,21 +70,21 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     <summary>Mobile
     </summary>
 
-    ![Mobile Wireframe](/assests/images/Moblie.png)
+    ![Mobile Wireframe](assests/README/moblie-wireframe.png)
 
     </details>
     <details>
     <summary>Tabelt
     </summary>
 
-    ![Tablet Wireframe](/assests/images/Tablet.png)
+    ![Tablet Wireframe](/assests/README/tablet-wireframe.png)
 
     </details>
     <details>
     <summary>Desktop
     </summary>
 
-    ![Desktop Wireframe](/assests/images/Desktop.png)
+    ![Desktop Wireframe](/assests/README/desktop-wireframe.png)
 ---
 
 ## Features
@@ -101,26 +101,26 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     * It is identical in design across the pages.
     * Allows easy navigation from page to page without having to revert back to the previous page via the "back" button.
 
-![Navigation](assests/images/nav-bar.png)
+![Navigation](assests/README/nav-bar.png)
 
 * Hero Image
     * It is composed of a image featuring the inside of the coffee shop.
     * Shows customer there first glimse of what there experice would like if they came to the shop
 
-![Hero Image](assests/images/hero-image.png)
+![Hero Image](assests/README/hero-image.png)
 
 * Section one, 'Where it all began?'
     * It is composed of an image featuring the inside of the coffee shop.
     * Shows customer their first glimpse of what their experience would like if they came to the shop
 
 
-![Where it all began?](assests/images/history.png)
+![Where it all began?](assests/README/history.png)
 
 * Section two, 'How does it work?'
    * Information about the ordering and building process customers will experience in the store.
 
 
-![How does it work?](assests/images/how-it-works.png)
+![How does it work?](assests/README/how-it-works.png)
 
 * Events
     * This section will allow users to get information about Build n Blends events during the week.
@@ -128,7 +128,7 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     * Also embedded is google maps of shop location so customers can see where the shop is.
 
 
-![Events](assests/images/events.png)
+![Events](assests/README/events.png)
 
 * Opening Times and Location
     * This section will allow users to see the opening hours for during the week.
@@ -136,7 +136,7 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     * For example on Saturday night you way when to have a beer or cocktail while you build.
 
 
-![Opening Times and Location](assests/images/opening-location.png)
+![Opening Times and Location](assests/README/opening-location.png)
 
 * Footer
     * Links to the social media for Build n Blend will open in a new tab to allow easy navigation for the user.
@@ -144,26 +144,26 @@ Users can see on our gallery page the setting of the shop with lego builds that 
     * Hold copyright information about the author.
 
 
-![Footer](assests/images/footer.png)
+![Footer](assests/README/footer.png)
 
 * Gallery 
     * The gallery will provide the user with supporting images to see lego build, coffee on offer and customers having a good time.
     * This section is valuable to the user as they will see our previous experiences of past customers.
 
 
-![Gallery](assests/images/gallery.png)
+![Gallery](assests/README/gallery.png)
 
 * Contact Page
     * This page will allow users to choose a lego set they wish to build, enquiries on booking the venue for a function, and all other questions.
     * In the future, there might be more options of lego sets for customers to choose from.
 
 
-![Contact Page](assests/images/contact-form.png)
+![Contact Page](assests/README/contact-form.png)
 
 * Thank you message page
     * Confirms we have received the customer request
 
-![Form received](assests/images/thank-you-message.png)
+![Form received](assests/README/thank-you-message.png)
 
 ---
 
@@ -212,31 +212,31 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>index.html
 </summary>
 
-![Index page validation result](assests/images/index-checked.png)
+![Index page validation result](assests/README/index-checked.png)
 </details>
 <details>
 <summary>gallery.html
 </summary>
 
-![Gallery page validation result](assests/images/gallery-checked.png)
+![Gallery page validation result](assests/README/gallery-checked.png)
 </details>
 <details>
 <summary>contact.html
 </summary>
 
-![Contact page validation result](assests/images/contact-checked.png)
+![Contact page validation result](assests/README/contact-checked.png)
 </details>
 <details>
 <summary>thak-you.htmml
 </summary>
 
-![Thank you message page validation result](assests/images/thank-you-checked.png)
+![Thank you message page validation result](assests/README/thank-you-checked.png)
 </details>
 <details>
 <summary>style.css
 </summary>
 
-![CSS validation result](assests/images/css-validation.png)
+![CSS validation result](assests/README/css-validation.png)
 </details>
 
 ### Manual Testing
@@ -260,25 +260,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Index Page lighthouse report](assests/images/index-mobile.png)
+![Index Page lighthouse report](assests/README/index-mobile.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery page lighthouse report](assests/images/gallery-mobile.png)
+![Gallery page lighthouse report](assests/README/gallery-mobile.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Contact page lighthouse report](assests/images/contact-mobile.png)
+![Contact page lighthouse report](assests/README/contact-mobile.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Thank you message page lighthouse report](assests/images/thank-you-mobile.png)
+![Thank you message page lighthouse report](assests/README/thank-you-mobile.png)
 </details>
 
 #### Desktop analysis
@@ -286,25 +286,25 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 <summary>Home Page
 </summary>
 
-![Index Page lighthouse report](assests/images/index-desktop.png)
+![Index Page lighthouse report](assests/README/index-desktop.png)
 </details>
 <details>
 <summary>Gallery
 </summary>
 
-![Gallery page lighthouse report](assests/images/gallery-desktop.png)
+![Gallery page lighthouse report](assests/README/gallery-desktop.png)
 </details>
 <details>
 <summary>Sign Up
 </summary>
 
-![Contact page lighthouse report](assests/images/contact-desktop.png)
+![Contact page lighthouse report](assests/README/contact-desktop.png)
 </details>
 <details>
 <summary>Application Received
 </summary>
 
-![Thank you message page lighthouse report](assests/images/thank-you-desktop.png)
+![Thank you message page lighthouse report](assests/README/thank-you-desktop.png)
 </details>
 
 ---
@@ -314,7 +314,7 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ### GitHub Pages
 
 GitHub Pages used to deploy live version of the website.
-1. Log in to GitHub and locate [GitHub Repository Lunar Escape](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
+1. Log in to GitHub and locate [GitHub Repository Build n Blend](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
 2. At the top of the Repository(not the main navigation) locate "Settings" button on the menu.
 3. Scroll down the Settings page until you locate "GitHub Pages".
 4. Under "Source", click the dropdown menu "None" and select "Main" and click "Save".
@@ -325,13 +325,13 @@ GitHub Pages used to deploy live version of the website.
 
 By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
 
-1. Log in to GitHub and locate [GitHub Repository Lunar Escape](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
+1. Log in to GitHub and locate [GitHub Repository Build n Blend](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
 2. At the top of the Repository(under the main navigation) locate "Fork" button.
 3. Now you should have a copy of the original repository in your GitHub account.
 
 ### Local Clone
 
-1. Log in to GitHub and locate [GitHub Repository Lunar Escape](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
+1. Log in to GitHub and locate [GitHub Repository Build n Blend](https://github.com/RhysTyler112/User-Centric-Frontend-Development--Build-n-Blend)
 2. Under the repository name click "Clone or download"
 3. Click on the code button, select clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open Git Bash
