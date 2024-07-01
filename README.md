@@ -344,8 +344,8 @@ By forking the repository, we make a copy of the original repository on our GitH
 ## Credits
 
 ### Code
- * Understanding the concept of [flexbox](https://css-tricks.com/)
- * CSS inpatration to assisted my [design](https://www.w3schools.com/)
+ * [CSS-tricks](https://css-tricks.com/) gave me the understanding the around flexbox.
+ * [w3schools](https://www.w3schools.com/) CSS section gave inspiration to the design of the website.
  * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
  * To help make sure I was committing and pushing my work correctly using [Git Cheat Code](https://education.github.com/git-cheat-sheet-education.pdf
  )
