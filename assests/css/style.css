@@ -62,7 +62,7 @@ nav a.active {
   padding: 1px;
 }
 
-/*-------------------------------------------hero image*/
+/*-------------------------------------------Hero Image*/
 .wrapper {
   display: flex;  
   flex-flow: row wrap;
@@ -97,7 +97,7 @@ nav a.active {
   text-underline-position: under;
 }
 
-/*------------------------------------------------How it works*/
+/*------------------------------------------------How It Works*/
 .how-it-works {
   background: url(../images/lego-background.jpg) center center / cover no-repeat fixed;
 }
@@ -117,7 +117,7 @@ nav a.active {
   padding: 1%;
 }
 
-/*--------------------------------------------------Event boxes-*/
+/*--------------------------------------------------Event Boxes-*/
 .adult-night {
     background: #f6c908;
 }
@@ -170,7 +170,7 @@ nav a.active {
   font-size: 15px;
   }
 
-/* ------------------------------------opeing time and location */
+/* ------------------------------------Opening Times And Location */
 .opening-location{
   background-color: #f6c908;
   margin: 0;
@@ -231,7 +231,7 @@ padding-right: 10px;
   flex-grow: 10;
 }
 
-/* -----------------------------------------------------conatact page */
+/* -----------------------------------------------------Contact Page */
 .form {
   font-family:"Glegoo", sans-serif;
   margin-bottom: 8%;
@@ -320,7 +320,7 @@ input[type=reset] {
   margin-left: 15%;
 }
 
-/* -----------------------------------------------------Thank you html */
+/* -----------------------------------------------------Thank You Html */
 .thank-you-section {
   background: url(../images/thank-you-pic.jpg) center center / cover no-repeat fixed;
   height: 800px;
@@ -390,7 +390,7 @@ footer p {
   padding: 5%;
   color: #fafafa;
 }
-/* -----------------------------------------------------Media queries */
+/* -----------------------------------------------------Media Queries */
 @media only screen and (min-width: 1440px) {
   /*---Nav Bar*/
   .logo {
@@ -407,15 +407,15 @@ footer p {
     font-size: 15px;
     height: 25px;
   }
-  /*------How it works*/
+  /*------How It Works*/
   .how-it-works {
     padding-top: 2%;
   }
-  /* ----opeing time and location */
+  /* ----Opening Time And Location */
   .opening-location {
     font-size: 1.3em
   }
-  /* ------Thank you html */
+  /* ------Thank You Html */
   .thank-you-message {
     text-align: center;
     color: #131111;
@@ -426,7 +426,7 @@ footer p {
     background-color:rgb(255, 255, 255, 0.7);
     
   }
-  /* ----conatact page */
+  /* ----Contact Page */
   .radio {
     margin: 0 20%;
   }
@@ -443,7 +443,7 @@ footer p {
 } 
 
 @media only screen and (min-width: 768px) { 
-   /* ------Thank you html */
+   /* ------Thank You Html */
   .thank-you-message-border{
     padding-top: 22%;
     }
@@ -453,7 +453,7 @@ footer p {
     }
 
   
-    /* ----conatact page */
+    /* ----Contact Page */
     .radio {
       margin: 0 0 0 10%;
     }
@@ -490,7 +490,7 @@ footer p {
   }
 }
 
-/* -----------------------------------------------------Bootstap overide */
+/* -----------------------------------------------------Bootstap Overide */
 
 .container-fluid {
   padding: 0;
